@@ -1,4 +1,9 @@
-https://krvm.org/stream/krvm-live.m3u
-http://jazz24.org:8000/jazz24-128.mp3
-https://nightride.fm/stream
-http://lora.ice.infomaniak.ch:80/lora-192
+#EXTM3U
+#EXTINF:-1,Art Bell Archive Radio (u7radio)
+http://u7radio.org/;stream.mp3
+#EXTINF:-1,Art Bell Somewhere In Time Archive
+https://archive.org/stream/ArtBell_Somewhere_In_Time
+#EXTINF:-1,Ultimate Art Bell Archive RSS
+https://fourble.co.uk/ultimateart-260204-7.rss
+#EXTINF:-1,Art Bell YouTube Paranormal Archive
+https://www.youtube.com/playlist?list=PL3F4AFA713253C7BA
