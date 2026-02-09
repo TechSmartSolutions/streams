@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,KRVM Public Radio (Oregon, USA)
+https://krvm.org/stream/krvm-live.m3u
+#EXTINF:-1,Jazz24 Seattle
+http://jazz24.org:8000/jazz24-128.mp3
+#EXTINF:-1,Nightride FM (Synthwave)
+https://nightride.fm/stream
+#EXTINF:-1,Radio LoRa (Swiss community)
+http://lora.ice.infomaniak.ch:80/lora-192
