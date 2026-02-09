@@ -1,19 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Radio Paradise (Main Mix)
-https://stream.radioparadise.com/mp3-192
-#EXTINF:-1,Nightride FM (Synthwave)
-https://nightride.fm/stream
-#EXTINF:-1,1000 Webradios – 1000 2000er
-https://10002000er.stream.laut.fm/10002000er?autoplay=1&t302=2025-12-20_00-04-40&uuid=4d34e8a4-2445-44ec-a66c-8bff50e02189
-#EXTINF:-1,101 The Point
-http://procyon.shoutca.st:8331/stream/
-#EXTINF:-1,1029 Hot Tomato
-http://23093.live.streamtheworld.com/GOL_HOTTOMATO.mp3
-#EXTINF:-1,104.6 RTL – 2000er
-https://rtlberlin.streamabc.net/rtlb-rtl2000er-mp3-128-2732132
-#EXTINF:-1,113FM Radio – 2k’s
-http://113fm.cdnstream1.com/1812_128
-#EXTINF:-1,113FM Radio – Pop2K
-http://113fm-edge1.cdnstream.com/1737_128
-#EXTINF:-1,97.3 The Big Joe
-http://das-edge12-live365-dal02.cdnstream.com/a29918
+#EXTINF:-1,The Very Best Of Art Bell (U7Radio.org)
+http://108.161.128.117:8050/listen.pls?sid=1
