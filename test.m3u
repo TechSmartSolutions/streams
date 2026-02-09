@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Art Bell Archive Radio (u7radio)
-http://u7radio.org/;stream.mp3
-#EXTINF:-1,Art Bell Somewhere In Time Archive
-https://archive.org/stream/ArtBell_Somewhere_In_Time
-#EXTINF:-1,Ultimate Art Bell Archive RSS
-https://fourble.co.uk/ultimateart-260204-7.rss
-#EXTINF:-1,Art Bell YouTube Paranormal Archive
-https://www.youtube.com/playlist?list=PL3F4AFA713253C7BA
+
+#EXTINF:-1,Radio Paradise (Main Mix)
+https://stream.radioparadise.com/mp3-192
+
+#EXTINF:-1,Nightride FM (Synthwave)
+https://nightride.fm/stream
