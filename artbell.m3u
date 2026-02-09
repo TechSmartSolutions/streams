@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,The Very Best Of Art Bell (U7Radio.org)
 http://108.161.128.117:8050/listen.pls?sid=1
+#EXTINF:-1,GZ Ground Zero
+http://cast.wizworks.net:8000/gz
